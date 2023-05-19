@@ -1,3 +1,4 @@
+<pre>
 # Days_of_the_week
 Calculate the day of the week for a given date.
 
@@ -15,3 +16,4 @@ optional arguments:
 Exemple:
 \>\> python3 week_day.py -d 23 -m 12 -y 2249
 Samedi 23 Décembre 2249
+</pre>
