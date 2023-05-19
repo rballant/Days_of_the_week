@@ -13,5 +13,5 @@ optional arguments:
   -y YYYY     Year: integer limits
 
 Exemple:
->> python3 week_day.py -d 23 -m 12 -y 2249
+\>\> python3 week_day.py -d 23 -m 12 -y 2249
 Samedi 23 Décembre 2249
